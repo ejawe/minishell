@@ -2,7 +2,7 @@
 
 **signal**
 
-Changer l'état du processus au premier plan, utiliser signal.
+Changer l'état du processus au premier plan.
 
 Les signaux sont un mécanisme asynchrone de communication inter-processus.
 Les signaux sont envoyés à un ou plusieurs processus. Ce signal est en général associé
